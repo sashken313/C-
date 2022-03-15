@@ -1,0 +1,2 @@
+E:\crypt\decezar\Debug\decezar.exe
+E:\Криптографический инжинеринг\лб1\decezar\Debug\decezar.exe
